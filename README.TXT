@@ -1,4 +1,7 @@
-	
+	Note: This is only an executable version for project.
+
+
+
 	ORPHAN: Sound of Silence	
 	
 
