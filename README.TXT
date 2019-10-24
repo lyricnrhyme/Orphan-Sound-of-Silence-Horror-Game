@@ -1,6 +1,7 @@
 	General Info
 	
-	Project started in 2013. Around 2015 I finished it. Theres is official site where you can download it. In association with 		Humble Bundle and itchio sites.
+	Project started in 2013. Around 2015 I finished it. Theres is official site where you can download it. 
+	In association with Humble Bundle and itchio sites.
 	
 
 	Official site: http://orphan-dev.tk/
